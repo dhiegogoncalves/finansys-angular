@@ -8,6 +8,6 @@ import { CategoryFormComponent } from './category-form/category-form.component';
 
 @NgModule({
   declarations: [CategoryListComponent, CategoryFormComponent],
-  imports: [SharedModule, CategoriesRoutingModule],
+  imports: [CategoriesRoutingModule, SharedModule],
 })
 export class CategoriesModule {}
