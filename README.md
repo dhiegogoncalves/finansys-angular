@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Sistema financeiro que contém crud de lançamentos e categorias com geração de relatórios com gráficos.
+Demo de sistema financeiro que contém crud de lançamentos e categorias com geração de relatórios com gráficos.
 
 <p align="center">
     <img src="print.png" alt="drawing" width="800"/>
