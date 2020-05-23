@@ -15,11 +15,3 @@ Demo de sistema financeiro que contém crud de lançamentos e categorias com ger
 <p align="center">
     <img src="print.png" alt="drawing" width="800"/>
 </p>
-
-## :checkered_flag: Iniciar a aplicacão
-
-Para rodar a aplicação acesse a pasta do codigo fonte e execute o comando:
-
-```console
-ng serve
-```
